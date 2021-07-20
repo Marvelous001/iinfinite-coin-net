@@ -1,2 +1,2 @@
-# iinfinite-coin-net
-gaming
+# infinite-coin-net
+investment
