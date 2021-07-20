@@ -1,0 +1,2 @@
+# iinfinite-coin-net
+gaming
